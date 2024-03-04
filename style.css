@@ -1,0 +1,28 @@
+.tab-container {
+    padding: 0px;
+    display: flex;
+    position: absolute; right: 7px;
+    position: absolute; top: 7px;
+}
+.tab a {
+    text-decoration: none;
+    font-family: "Ubuntu";
+    color: aliceblue;
+}
+.tab {
+    border-radius: 7px 7px;
+    border-color: rgb(104, 109, 112);
+    padding: 5px;
+    margin: 0px;
+    background-color: rgb(151, 140, 126);
+    cursor: pointer;
+    border: none;
+    word-spacing: normal;
+    margin-right: 4px;
+}
+h1 {
+    font-family: 'Ubuntu';
+}
+html {
+    background-color: beige;
+}
