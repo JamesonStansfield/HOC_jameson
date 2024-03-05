@@ -20,6 +20,10 @@
     word-spacing: normal;
     margin-right: 15px;
     box-shadow: 3px 3px #897d70;
+    transition: 0.3s ease;
+}
+.tab:hover {
+    background-color: #a09282;
 }
 h1 {
     font-family: 'Ubuntu';
