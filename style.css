@@ -38,3 +38,22 @@ html {
     background-color: #DDC9B4;
     font-family: 'Ubuntu';
 }
+.portrait-John {
+    background-color: #BCAC9B;
+    padding: 16px 16px;
+    border-radius: 10px 10px;
+    margin: 10px;
+    border: none;
+    box-shadow: 3px 3px #897d70;
+}
+.berry-computer-image {
+    background-color: #BCAC9B;
+    padding: 16px 16px;
+    border-radius: 10px 10px;
+    margin: 10px;
+    border: none;
+    box-shadow: 3px 3px #897d70;
+}
+.photo-gallery {
+    display: flex;
+}
