@@ -47,6 +47,8 @@ p {
     align-items: center;
     word-spacing: 5px;
     font-size: large;
+    margin-right: 200px;
+    margin-left: 200px;
 }
 html {
     background-color: #DDC9B4;
@@ -87,6 +89,11 @@ html {
     margin: 10px;
     border: none;
     box-shadow: 3px 3px #897d70;
+}
+.cp-d {
+    align-items: center;
+    justify-content: center;
+    padding-left: 400px;
 }
 .photo-gallery {
     display: flex;
