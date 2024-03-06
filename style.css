@@ -33,6 +33,7 @@ h1 {
     border-radius: 7px 7px;
     box-shadow: 3px 3px #897d70;
     color: rgb(81, 71, 59);
+    font-size: 50px;
 }
 html {
     background-color: #DDC9B4;
@@ -47,6 +48,22 @@ html {
     box-shadow: 3px 3px #897d70;
 }
 .berry-computer-image {
+    background-color: #BCAC9B;
+    padding: 16px 16px;
+    border-radius: 10px 10px;
+    margin: 10px;
+    border: none;
+    box-shadow: 3px 3px #897d70;
+}
+.mus-computer {
+    background-color: #BCAC9B;
+    padding: 16px 16px;
+    border-radius: 10px 10px;
+    margin: 10px;
+    border: none;
+    box-shadow: 3px 3px #897d70;
+}
+.john-portrait-2 {
     background-color: #BCAC9B;
     padding: 16px 16px;
     border-radius: 10px 10px;
