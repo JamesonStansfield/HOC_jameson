@@ -121,3 +121,18 @@ ul {
     margin-right: 200px;
     margin-left: 200px;
 }
+.print-page {
+    align-items: center;
+    justify-content: center;
+}
+button {
+    color: rgb(81, 71, 59);
+    background-color: #a09282;
+    border-color: #897d70;
+    transition: 0.3s ease;
+    align-items: center;
+    justify-content: center;
+}
+button:hover {
+    background-color: #897d70;
+}
