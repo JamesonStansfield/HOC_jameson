@@ -136,3 +136,8 @@ button {
 button:hover {
     background-color: #897d70;
 }
+.notice {
+    text-align: center;
+    margin-right: 500px;
+    margin-left: 500px;
+}
