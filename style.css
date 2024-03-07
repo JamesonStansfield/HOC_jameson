@@ -108,3 +108,16 @@ html {
 .photo-gallery {
     display: flex;
 }
+ul {
+    font-family: 'Montserrat';
+    background-color: #BCAC9B;
+    padding: 10px;
+    border-radius: 7px 7px;
+    box-shadow: 3px 3px #897d70;
+    justify-content: center;
+    align-items: center;
+    word-spacing: 5px;
+    font-size: large;
+    margin-right: 200px;
+    margin-left: 200px;
+}
