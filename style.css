@@ -95,15 +95,13 @@ html {
     justify-content: center;
     padding-left: 400px;
 }
-.clifford-photo {
-    background-color: #BCAC9B;
-    padding: 16px 16px;
-    border-radius: 10px 10px;
-    border: none;
-    box-shadow: 3px 3px #897d70;
-}
+
 .clifford-para-and-photo {
     display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.clifford-para {
     justify-content: center;
     align-items: center;
 }
